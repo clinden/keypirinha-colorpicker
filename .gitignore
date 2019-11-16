@@ -1,0 +1,4 @@
+build_package.cmd
+*.bak
+*.keypirinha-package
+*.hex
